@@ -8,5 +8,6 @@ For now this program just prints out the iterations in which a search for the re
 ### Future Ideas\ TODO
 - Add an option that a user can promp custom header to send in the request packet. 
 - Add option to spam more than 1 parameter.
+- Add threading for faster spam. 
 
 Use this program at your own risk .. 
